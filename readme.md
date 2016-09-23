@@ -27,7 +27,7 @@ To make any changes to this application will need to download the following if y
 - Install a tool that will help you follow the Pep8 guidelines. Check out pep8 - Python style guide checker.
 
 ## Beginning with Movie Trailer Application
-Before you start doing anything coding, there are few steps that you should take to make sure that this movie web application have everything required in order to run it.
+Before you start doing anything, there are few steps that you should take to make sure that this movie web application have everything required in order to run it properly.
 
 + Usage
 + Development
@@ -51,14 +51,6 @@ Configuration
 
 
 ##### Development
-
-- Contributing Pull Requests
-
-Anyone interested in making valuable contributions to this project is welcome and will be given commit-access at some point.
-
-- Fork the Project
-
-To fork this project on Github, a link to the file will be available soon.
 
 - Tools
 
