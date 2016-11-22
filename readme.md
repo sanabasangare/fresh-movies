@@ -23,7 +23,7 @@ This movie trailer application allows its users to browse and view multiple movi
 ##### Setup Requirements **(optional)**
 To make any changes to this application will need to download the following if you don't already have them installed:
 
-- install Python 2.7
+- Install Python 2.7
 - Install a tool that will help you follow the Pep8 guidelines. Check out pep8 - Python style guide checker.
 
 ## Beginning with Movie Trailer Application
@@ -37,14 +37,14 @@ To launch, customize or configure this program:
 
 Launch
 
-- Open the "movies" folder
+- Inside the "movies" folder
 - Open the "fresh_tomatoes.html" file in your browser to see the web application in action
-- Click on any movie poster image to see its video trailer
+- Click on any movie poster image to watch the movie or video
 
 Configuration
 
-- Open the "movies" folder
+- In the "movies" folder
 - Open the "media.py" file in your Python editor
-- Run your python files to make there are no errors
+- Run your python files to check if there are no errors
 - Go to "entertainment_center.py" and change each movie instance accordingly
 - Save your file before running the program
